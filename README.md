@@ -13,7 +13,7 @@ git clone https://github.com/SamC-dev/Airbnb-spatial-regression-analysis.git
 
 #### Create a virtual environment
 
-###### In windows:
+##### In windows:
 
 ```bash
 python -m venv venv
@@ -31,7 +31,7 @@ install dependencies:
 pip install -r requirements.txt
 ```
 
-###### In linux:
+##### In linux:
 
 ```bash
 python3 -m venv venv

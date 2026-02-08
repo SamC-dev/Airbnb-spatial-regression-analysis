@@ -7,44 +7,44 @@ Spatial regression analysis of Palermo's Airbnb market including:
 
 ## Installation instruction (for reproducibility)
 
-'''bash
+```bash
 git clone https://github.com/SamC-dev/Airbnb-spatial-regression-analysis.git
-'''
+```
 
 #### Create a virtual environment
 
 ###### In windows:
 
-'''bash
+```bash
 python -m venv venv
-'''
+```
 
 Activate it:
 
-'''bash
+```bash
 venv/Scripts/activate
-'''
+```
 
 install dependencies:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ###### In linux:
 
-'''bash
+```bash
 python3 -m venv venv
-'''
+```
 
 Activate it:
 
-'''bash
+```bash
 source venv/bin/activate
-'''
+```
 
 install dependencies:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
